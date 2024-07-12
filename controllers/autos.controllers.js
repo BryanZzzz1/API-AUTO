@@ -9,7 +9,7 @@ const getAutos = (req, res) => {
             nombre: auto.nombre,
             modelo: auto.modelo,
             pais: auto.pais,
-            imagenUrl: `http://localhost:3001/${auto.imagen}` // URL de la imagen
+            imagenUrl: `https://api-auto-spj9.onrender.com/${auto.imagen}` // URL de la imagen
         }))
     });
 };
@@ -32,7 +32,7 @@ const getAutoByid = (req, res) => {
                 nombre: auto.nombre,
                 modelo: auto.modelo,
                 pais: auto.pais,
-                imagenUrl: `http://localhost:3001/${auto.imagen}` // URL de la imagen
+                imagenUrl: `https://api-auto-spj9.onrender.com/${auto.imagen}` // URL de la imagen
             }
         });
     }
