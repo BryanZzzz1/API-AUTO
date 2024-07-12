@@ -7,7 +7,7 @@ const autos=[
         "nombre": "chevrolet camaro 2015",
         "modelo": "deportivo",
         "pais": "estados unidos",
-        "imagen": "https://ibb.co/jMztFyc"
+        "imagen": "camaro.jpg"
 
     },
     {
