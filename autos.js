@@ -7,7 +7,8 @@ const autos=[
         "nombre": "chevrolet camaro 2015",
         "modelo": "deportivo",
         "pais": "estados unidos",
-        "imagen": "camaro.jpg"
+        "imagen": "camaro.jpg",
+        "precio":20000
 
     },
     {
