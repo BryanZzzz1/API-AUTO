@@ -8,7 +8,7 @@ const autos=[
         "modelo": "deportivo",
         "pais": "estados unidos",
         "imagen": "camaro.jpg",
-        "precio":20000
+        "precio":"20000"
 
     },
     {
@@ -17,7 +17,8 @@ const autos=[
         "nombre": "toyota supra",
         "modelo": "deportivo",
         "pais": "japon",
-        "imagen": "supra.jpg"
+        "imagen": "supra.jpg",
+        "precio":"20000"
 
     },
     {
@@ -26,7 +27,8 @@ const autos=[
         "nombre": " honda nsx",
         "modelo": "deportivo",
         "pais": "korea",
-        "imagen": "nsx.jpg"
+        "imagen": "nsx.jpg",
+        "precio":"20000"
 
     },
     {
@@ -35,7 +37,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -45,7 +48,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -55,7 +59,8 @@ const autos=[
         "nombre": "mclaren s720",
         "modelo": "deportivo",
         "pais": "italia",
-        "imagen": "mclaren.jpg"
+        "imagen": "mclaren.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -65,7 +70,8 @@ const autos=[
         "nombre": "ferrari f40",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -75,7 +81,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -85,7 +92,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -95,7 +103,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -105,7 +114,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -115,7 +125,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -125,7 +136,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -135,7 +147,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -145,7 +158,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -155,7 +169,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
     ,
@@ -165,7 +180,8 @@ const autos=[
         "nombre": "bmw",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg"
+        "imagen": "bmw.jpg",
+        "precio":"20000"
 
     }
 ];
