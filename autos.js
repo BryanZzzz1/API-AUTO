@@ -184,6 +184,27 @@ const autos=[
         "precio":"20000"
 
     }
+    ,
+     {
+     
+        "id":18,
+        "nombre": "Mercedez AMG",
+        "modelo": "deportivo",
+        "pais": "Peru",
+        "imagen": "AMG.jpg",
+        "Precio":"30000"
+    }
+    ,
+     {
+     
+        "id":19,
+        "nombre": "G500",
+        "modelo": "Camioneta",
+        "pais": "Bolivia",
+        "imagen": "g500.jpg",
+        "Precio":"30000"
+
+    }
 ];
 
 module.exports={
