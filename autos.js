@@ -54,7 +54,7 @@ const autos=[
         "nombre": "mclaren s720",
         "modelo": "deportivo",
         "pais": "italia",
-        "imagen": "bmw.jpg"
+        "imagen": "maclaren.jpg"
 
     }
     ,
