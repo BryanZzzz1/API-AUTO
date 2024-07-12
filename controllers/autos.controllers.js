@@ -9,7 +9,8 @@ const getAutos = (req, res) => {
             nombre: auto.nombre,
             modelo: auto.modelo,
             pais: auto.pais,
-            imagenUrl: `https://api-auto-spj9.onrender.com/${auto.imagen}` // URL de la imagen
+            imagenUrl: `https://api-auto-spj9.onrender.com/${auto.imagen}`,
+            precio: auto.precio
         }))
     });
 };
@@ -32,7 +33,8 @@ const getAutoByid = (req, res) => {
                 nombre: auto.nombre,
                 modelo: auto.modelo,
                 pais: auto.pais,
-                imagenUrl: `https://api-auto-spj9.onrender.com/${auto.imagen}` // URL de la imagen
+                imagenUrl: `https://api-auto-spj9.onrender.com/${auto.imagen}`,
+                precio: auto.precio// URL de la imagen
             }
         });
     }
