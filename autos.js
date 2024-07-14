@@ -34,10 +34,10 @@ const autos=[
     {
      
         "id":4,
-        "nombre": "bmw",
-        "modelo": "deportivo",
+        "nombre": "Hyundai avante",
+        "modelo": "Ciudad",
         "pais": "alemania",
-        "imagen": "bmw.jpg",
+        "imagen": "Hyundai_avante.jpg",
         "precio":"20000"
 
     }
@@ -45,10 +45,10 @@ const autos=[
     {
      
         "id":5,
-        "nombre": "bmw",
-        "modelo": "deportivo",
+        "nombre": "Ford F150",
+        "modelo": "4x4 full terreno",
         "pais": "alemania",
-        "imagen": "bmw.jpg",
+        "imagen": "fordf150.jpg",
         "precio":"20000"
 
     }
@@ -56,10 +56,10 @@ const autos=[
     {
      
         "id":6,
-        "nombre": "mclaren s720",
+        "nombre": "nissan xtrail",
         "modelo": "deportivo",
         "pais": "italia",
-        "imagen": "mclaren.jpg",
+        "imagen": "nissan xtrail.jpg",
         "precio":"20000"
 
     }
