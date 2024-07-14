@@ -109,34 +109,34 @@ const autos=[
     ,
     {
         "id": 11,
-        "nombre": "alfa romeo Giulia Quadrifoglio 2022",
+        "nombre": "Porche S Couga",
         "modelo": "sedán deportivo",
         "pais": "italia",
-        "imagen": "alfaromeo.jpg",
+        "imagen": "porche S coupe.jpg",
         "precio": "60000"
     },
     {
         "id": 12,
-        "nombre": "porsche Taycan Turbo S 2023",
-        "modelo": "sedán eléctrico",
+        "nombre": "Ford Mustang",
+        "modelo": "Deportivo",
         "pais": "alemania",
-        "imagen": "20.jpg",
+        "imagen": "mustang.jpg",
         "precio": "150000"
     },
     {
         "id": 13,
-        "nombre": "mercedes-amg GT 63 S 2021",
-        "modelo": "coupé deportivo",
+        "nombre": "Jeep OFF-ROAD",
+        "modelo": "Station Wagon",
         "pais": "alemania",
-        "imagen": "ford.jpg",
+        "imagen": "Jeep off-road.jpg",
         "precio": "180000"
     },
     {
         "id": 14,
-        "nombre": "audi RS7 2020",
-        "modelo": "sedán deportivo",
+        "nombre": "Renault CLIO",
+        "modelo": "Ciudad",
         "pais": "alemania",
-        "imagen": "30.jpg",
+        "imagen": "renaut.jpg",
         "precio": "120000"
     },
     {
