@@ -5,7 +5,7 @@ const autos=[
      
         "id":1,
         "nombre": " Hyundai Tucson 2015",
-        "modelo": "deportivo",
+        "modelo": "Station Wagon",
         "pais": "estados unidos",
         "imagen": "hyundai_tucson.jpg",
         "precio":"20000"
@@ -14,20 +14,20 @@ const autos=[
     {
      
         "id":2,
-        "nombre": "toyota supra",
-        "modelo": "deportivo",
+        "nombre": "Hyundai Santa FE 2018",
+        "modelo": "Station Wagon",
         "pais": "japon",
-        "imagen": "supra.jpg",
+        "imagen": "hyundai santafe.jpg",
         "precio":"20000"
 
     },
     {
      
         "id":3,
-        "nombre": " honda nsx",
-        "modelo": "deportivo",
+        "nombre": " Hyundai SUV 2",
+        "modelo": " Station Wagon",
         "pais": "korea",
-        "imagen": "nsx.jpg",
+        "imagen": "hyundai_SUV2.jpg",
         "precio":"20000"
 
     },
