@@ -56,7 +56,7 @@ const autos=[
     {
      
         "id":6,
-        "nombre": "nissan xtrail",
+        "nombre": "Nissan X Trail",
         "modelo": "deportivo",
         "pais": "italia",
         "imagen": "nissan xtrail.jpg",
@@ -67,7 +67,7 @@ const autos=[
     {
      
         "id":7,
-        "nombre": "ferrari f40",
+        "nombre": "BMW m807",
         "modelo": "deportivo",
         "pais": "alemania",
         "imagen": "bmw.jpg",
@@ -78,10 +78,10 @@ const autos=[
     {
      
         "id":8,
-        "nombre": "bmw",
+        "nombre": "Jaguar T508",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg",
+        "imagen": "jaguarT508.jpg",
         "precio":"20000"
 
     }
@@ -99,10 +99,10 @@ const autos=[
      {
      
         "id":10,
-        "nombre": "G500",
+        "nombre": "Jaguar T608",
         "modelo": "Camioneta",
         "pais": "Bolivia",
-        "imagen": "g500.jpg",
+        "imagen": "jaguar.jpg",
         "Precio":"30000"
 
     }
