@@ -4,10 +4,10 @@ const autos=[
     {
      
         "id":1,
-        "nombre": "chevrolet camaro 2015",
+        "nombre": " Hyundai Tucson 2015",
         "modelo": "deportivo",
         "pais": "estados unidos",
-        "imagen": "camaro.jpg",
+        "imagen": "hyundai_tucson.jpg",
         "precio":"20000"
 
     },
