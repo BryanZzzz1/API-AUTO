@@ -75,17 +75,6 @@ const autos=[
 
     }
     ,
-    {
-     
-        "id":8,
-        "nombre": "Jaguar T508",
-        "modelo": "deportivo",
-        "pais": "alemania",
-        "imagen": "jaguarT508.JPG",
-        "precio":"20000"
-
-    }
-    ,
      {
      
         "id":9,
