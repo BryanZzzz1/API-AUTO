@@ -27,7 +27,7 @@ const autos=[
         "nombre": " Hyundai SUV 2",
         "modelo": " Station Wagon",
         "pais": "korea",
-        "imagen": "hyundai_SUV2.jpg",
+        "imagen": "hyundai_SUV2.jpeg",
         "precio":"20000"
 
     },
@@ -37,7 +37,7 @@ const autos=[
         "nombre": "Hyundai avante",
         "modelo": "Ciudad",
         "pais": "alemania",
-        "imagen": "Hyundai_avante.jpg",
+        "imagen": "Hyundai_avante.jpeg",
         "precio":"20000"
 
     }
@@ -48,7 +48,7 @@ const autos=[
         "nombre": "Ford F150",
         "modelo": "4x4 full terreno",
         "pais": "alemania",
-        "imagen": "fordf150.jpg",
+        "imagen": "fordf150.jpeg",
         "precio":"20000"
 
     }
@@ -59,7 +59,7 @@ const autos=[
         "nombre": "Nissan X Trail",
         "modelo": "deportivo",
         "pais": "italia",
-        "imagen": "nissan xtrail.jpg",
+        "imagen": "nissan xtrail.jpeg",
         "precio":"20000"
 
     }
@@ -70,7 +70,7 @@ const autos=[
         "nombre": "BMW m807",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpg",
+        "imagen": "bmw.jpeg",
         "precio":"20000"
 
     }
@@ -81,7 +81,7 @@ const autos=[
         "nombre": "Jaguar T508",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "jaguarT508.jpg",
+        "imagen": "jaguarT508.jpeg",
         "precio":"20000"
 
     }
@@ -92,7 +92,7 @@ const autos=[
         "nombre": "Mercedez AMG",
         "modelo": "deportivo",
         "pais": "Peru",
-        "imagen": "AMG.jpg",
+        "imagen": "AMG.jpeg",
         "Precio":"30000"
     }
     ,
@@ -102,7 +102,7 @@ const autos=[
         "nombre": "Jaguar T608",
         "modelo": "Camioneta",
         "pais": "Bolivia",
-        "imagen": "jaguar.jpg",
+        "imagen": "jaguar.jpeg",
         "Precio":"30000"
 
     }
