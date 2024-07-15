@@ -140,25 +140,9 @@ const autos=[
         "precio": "120000"
     },
     {
-        "id": 15,
-        "nombre": "bmw i8 Roadster 2019",
-        "modelo": "descapotable deportivo",
-        "pais": "alemania",
-        "imagen": "bmw-i8.jpg",
-        "precio": "100000"
-    },
-    {
-        "id": 16,
-        "nombre": "lexus LC 500 2021",
-        "modelo": "coupé deportivo",
-        "pais": "japón",
-        "imagen": "amg.jpg",
-        "precio": "95000"
-    },
-    {
         "id": 17,
-        "nombre": "aston martin Vantage 2022",
-        "modelo": "coupé deportivo",
+        "nombre": "Ford Tourneo",
+        "modelo": "Ciudad",
         "pais": "reino unido",
         "imagen": "30.jpg",
         "precio": "160000"
@@ -166,23 +150,23 @@ const autos=[
     {
         "id": 18,
         "nombre": "ford GT 2020",
-        "modelo": "supercarro",
+        "modelo": "Deportivo",
         "pais": "estados unidos",
         "imagen": "ford.jpg",
         "precio": "500000"
     },
     {
         "id": 19,
-        "nombre": "koenigsegg Jesko 2023",
-        "modelo": "hiperauto",
+        "nombre": "Chevrolet Camaro 2023",
+        "modelo": "Deportivo",
         "pais": "suecia",
         "imagen": "camaro.jpg",
         "precio": "3000000"
     },
     {
         "id": 20,
-        "nombre": "bugatti Chiron Super Sport 300+ 2021",
-        "modelo": "hiperauto",
+        "nombre": "bugatti Chiron",
+        "modelo": "Deportivo",
         "pais": "francia",
         "imagen": "bugati.jpg",
         "precio": "5000000"
