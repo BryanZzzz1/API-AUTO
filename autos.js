@@ -17,7 +17,7 @@ const autos=[
         "nombre": "Hyundai Santa FE 2018",
         "modelo": "Station Wagon",
         "pais": "japon",
-        "imagen": "hyundai_santafe.jpeg",
+        "imagen": "hyundai_santafe.jpg",
         "precio":"20000"
 
     },
@@ -27,7 +27,7 @@ const autos=[
         "nombre": " Hyundai SUV 2",
         "modelo": " Station Wagon",
         "pais": "korea",
-        "imagen": "hyundai_SUV2.jpeg",
+        "imagen": "hyundai_SUV2.jpg",
         "precio":"20000"
 
     },
@@ -37,7 +37,7 @@ const autos=[
         "nombre": "Hyundai avante",
         "modelo": "Ciudad",
         "pais": "alemania",
-        "imagen": "Hyundai_avante.jpeg",
+        "imagen": "Hyundai_avante.jpg",
         "precio":"20000"
 
     }
@@ -48,7 +48,7 @@ const autos=[
         "nombre": "Ford F150",
         "modelo": "4x4 full terreno",
         "pais": "alemania",
-        "imagen": "fordf150.jpeg",
+        "imagen": "fordf150.jpg",
         "precio":"20000"
 
     }
@@ -59,7 +59,7 @@ const autos=[
         "nombre": "Nissan X Trail",
         "modelo": "deportivo",
         "pais": "italia",
-        "imagen": "nissan xtrail.jpeg",
+        "imagen": "nissan xtrail.jpg",
         "precio":"20000"
 
     }
@@ -70,7 +70,7 @@ const autos=[
         "nombre": "BMW m807",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "bmw.jpeg",
+        "imagen": "bmw.jpg",
         "precio":"20000"
 
     }
@@ -81,7 +81,7 @@ const autos=[
         "nombre": "Jaguar T508",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "jaguarT508.jpeg",
+        "imagen": "jaguarT508.jpg",
         "precio":"20000"
 
     }
@@ -92,7 +92,7 @@ const autos=[
         "nombre": "Mercedez AMG",
         "modelo": "deportivo",
         "pais": "Peru",
-        "imagen": "AMG.jpeg",
+        "imagen": "AMG.jpg",
         "Precio":"30000"
     }
     ,
@@ -102,7 +102,7 @@ const autos=[
         "nombre": "Jaguar T608",
         "modelo": "Camioneta",
         "pais": "Bolivia",
-        "imagen": "jaguar.jpeg",
+        "imagen": "jaguar.jpg",
         "Precio":"30000"
 
     }
