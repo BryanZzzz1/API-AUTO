@@ -17,7 +17,7 @@ const autos=[
         "nombre": "Hyundai Santa FE 2018",
         "modelo": "Station Wagon",
         "pais": "japon",
-        "imagen": "hyundai santafe.jpg",
+        "imagen": "hyundai santafe.jpeg",
         "precio":"20000"
 
     },
