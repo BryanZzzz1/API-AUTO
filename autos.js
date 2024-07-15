@@ -81,7 +81,7 @@ const autos=[
         "nombre": "Jaguar T508",
         "modelo": "deportivo",
         "pais": "alemania",
-        "imagen": "jaguarT508.jpg",
+        "imagen": "jaguarT508.JPG",
         "precio":"20000"
 
     }
